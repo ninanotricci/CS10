@@ -1,0 +1,9 @@
+@media (max-width:375px){
+    .button{ display: none;}
+    .burger-bar{
+        display: flex;
+       
+    }
+    .navigation-wraper{display: none;}
+
+}
