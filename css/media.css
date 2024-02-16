@@ -7,3 +7,23 @@
     .navigation-wraper{display: none;}
 
 }
+
+@media (max-width:1024px) {
+    .section1-tablet{
+        display: flex;
+    }
+    .section1{
+        display: none;
+    }
+   
+    
+}
+
+@media(max-width:774px){ 
+   .section1-tablet774{display: flex;} 
+   .section1-tablet{
+    display: none;}
+    
+}
+
+
