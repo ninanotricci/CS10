@@ -5,6 +5,8 @@
        
     }
     .navigation-wraper{display: none;}
+    
+
 
 }
 
@@ -25,5 +27,13 @@
     display: none;}
     
 }
+@media (max-width:375px){
+    .section1-mobile{
+        display: flex;
+    }
+    .section1-tablet774{display: none;}
+}
 
-
+.button2 {
+    display: flex;
+}
